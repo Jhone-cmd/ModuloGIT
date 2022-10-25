@@ -1,2 +1,1 @@
-Meu primeiro sistema no GIT
-Alterando o readme no branch master 
+Meu primeiro sistema no GIT (atualizando o README!)
